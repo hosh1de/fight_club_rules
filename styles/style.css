@@ -15,7 +15,7 @@ body {
 .header {
     height: 100vh;
     background-color: #eee;
-    background-image: url(cover.png);
+    background-image: url(../images/cover.png);
     background-size: cover;
     background-position: center;
     text-align: center;
